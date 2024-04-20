@@ -15,6 +15,6 @@ Set-ExecutionPolicy Unrestricted -Scope Process <br>
 .\env\Scripts\activate <br>
 pip install -r requirements.txt <br>
 
-<b>Prelazak na drugi branch:</b>
+<b>Prelazak na drugi branch:</b><br>
 git fetch origin<br>
 git checkout (zeljeni branch)<br>
