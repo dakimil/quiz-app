@@ -6,8 +6,5 @@
     <p>Password</p>
     <input type="password" name="password" use:validators={[required]} />
 
-    <p>Confirm password</p>
-    <input type="password" name="password1" use:validators={[required]} />
-
     <button style="margin-top: 10px;" diabled={!$form.valid}>Login</button>
 </div>
