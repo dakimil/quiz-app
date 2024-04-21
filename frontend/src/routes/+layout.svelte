@@ -22,7 +22,7 @@
 				</a>
 				<a
 					class="btn btn-sm variant-ghost-surface"
-					href="/"
+					href="./src/routes/register.svelte"
 					target="_blank"
 					rel="noreferrer"
 				>
